@@ -1,0 +1,54 @@
+.heading h1{
+    color: darkcyan;
+    font-weight: bolder;
+}
+.question{
+    font-family:initial;
+}
+.option1{
+    padding: 15px 15px;
+    border-radius: 30px;
+    background-color: azure;
+    color: darkcyan;
+    font-family: ui-sans-serif;
+    font-weight: bolder;
+}
+.option2{
+    padding: 15px 15px;
+    border-radius: 30px;
+    background-color:azure;
+    color: darkcyan;
+    font-family: ui-sans-serif;
+    font-weight: bolder;
+}
+
+.option3{
+    padding: 15px 15px;
+    border-radius: 30px;
+    background-color: azure;
+    color: darkcyan;
+    font-family: ui-sans-serif;
+    font-weight: bolder;
+}
+
+.option4{
+    padding: 15px 15px;
+    border-radius: 30px;
+    background-color: azure;
+    color: darkcyan;
+    font-family: ui-sans-serif;
+    font-weight: bolder;
+}
+
+.next{
+    margin-top: 40px;
+    padding: 30px 45px;
+    border-radius: 25px;
+    background-color: azure;
+    color: darkcyan;
+    font-family: ui-sans-serif;
+    font-weight: bolder;
+    word-spacing: 30px;
+    float: right;
+    font-size: larger;
+}

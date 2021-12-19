@@ -1,0 +1,24 @@
+
+.item{
+    background-color: rgb(43, 185, 185);
+    margin-bottom: 5px;
+    padding: 10px 20px;
+}
+.title{
+    color:white;
+    cursor: pointer;
+}
+.main-para {
+    color: white;
+    cursor:pointer;
+}
+.main-para:hover{
+    color: whitesmoke;
+}
+.item:hover{
+background-color: darkcyan;
+}
+.content{
+    color:whitesmoke;
+    overflow: hidden;
+}

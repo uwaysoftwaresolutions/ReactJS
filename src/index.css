@@ -1,0 +1,26 @@
+.main_block{
+  background-color:lightsteelblue;
+  width: auto;
+  margin-top: 20rem;
+  padding: 6rem 0 6rem;
+  border-bottom-left-radius: 3rem;
+  border-bottom-right-radius: 3rem;
+  border-top-right-radius: 3rem;
+}
+
+.main_block1{
+  background-color:rgb(211, 185, 204);
+  width: auto;
+  margin-top: 20rem;
+  padding: 6rem 0 6rem;
+  border-bottom-left-radius: 3rem;
+  border-bottom-right-radius: 3rem;
+  border-top-right-radius: 3rem;
+}
+.main_button{
+  background-color:lightpink;
+  cursor: pointer;
+}
+.main_button:hover{
+  background-color: rgb(129, 32, 178);
+}

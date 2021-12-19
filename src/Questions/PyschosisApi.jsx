@@ -1,0 +1,92 @@
+export const PyschosisApi=[
+    {
+        id:1,
+        question:"1. Do familiar surroundings sometimes seem strange, confusing, threatening or unreal to you?",
+        option1:"YES",
+        option2:"NO",
+    },
+    {
+        id:2,
+        question:"2. Have you heard unusual sounds like banging, clicking, hissing, clapping or ringing in your ears?",
+        option1:"YES",
+        option2:"NO",
+    },
+    {
+        id:3,
+        question:"3. Do things that you see appear different from the way they usually do?",
+        option1:"YES",
+        option2:"NO",
+    },
+    {
+        id:4,
+        question:"4. Have you had experiences with telepathy, psychic forces, or fortune telling?",
+        option1:"YES",
+        option2:"NO",
+    },
+    {
+        id:5,
+        question:"5. Have you felt that you are not in control of your own ideas or thoughts?",
+        option1:"YES",
+        option2:"NO",
+    },
+    {
+        id:6,
+        question:"6. Do you have difficulty getting your point across, because you ramble or go off the track a lot when you talk?",
+        option1:"YES",
+        option2:"NO",
+    },
+    {
+        id:7,
+        question:"7. Do you have strong feelings or beliefs about being unusually gifted or talented in some way?",
+        option1:"YES",
+        option2:"NO",
+    },
+    {
+        id:8,
+        question:"8. Do you feel that other people are watching you or talking about you?",
+        option1:"YES",
+        option2:"NO",
+    },
+    {
+        id:9,
+        question:"9. Do you sometimes get strange feelings on or just beneath your skin, like bugs crawling?",
+        option1:"YES",
+        option2:"NO",
+    },
+    {
+        id:10,
+        question:"10. Do you sometimes feel suddenly distracted by distant sounds that you are not normally aware of?",
+        option1:"YES",
+        option2:"NO",
+    },
+    {
+        id:11,
+        question:"11. Have you had the sense that some person or force is around you, although you couldn’t see anyone?",
+        option1:"YES",
+        option2:"NO",
+    },
+    {
+        id:12,
+        question:"12. Do you worry at times that something may be wrong with your mind?",
+        option1:"YES",
+        option2:"NO",
+    },
+    {
+        id:13,
+        question:"13. Have you ever felt that you don't exist, the world does not exist, or that you are dead?",
+        option1:"YES",
+        option2:"NO",
+    },
+    {
+        id:14,
+        question:"14. Have you been confused at times whether something you experienced was real or imaginary?",
+        option1:"YES",
+        option2:"NO",
+    },
+    {
+        id:15,
+        question:"15. Do you hold beliefs that other people would find unusual or bizarre?",
+        option1:"YES",
+        option2:"NO",
+    },
+]
