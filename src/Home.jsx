@@ -1,10 +1,12 @@
 import React, { useState } from "react";
+import { Link, NavLink } from "react-router-dom";
 import Accordian from "./Acoordian/Accordian";
 import Questions from "./Questions/Questions";
 import QuestionsStructure from "./Questions/QuestionsStructure";
 
 
 const Home = () => {
+   
    return (
       <>
          <div className="container-fluid nav_bg">
@@ -35,7 +37,7 @@ const Home = () => {
                      <div className="main_block1 mx-sm-auto my-5 px-5  border border-1">
                         <h1 className="main_heading text-center display-1 mb-5 fw-bolder" style={{ color: "maroon" }}>Work Health Survey</h1>
                         <p className="main_para text-justify fs-3" style={{ color: "darkmagenta" }}>This is a not a mental health screening but a survey meant to help us identify strategies to help companies do better. The survey is updated annually.</p>
-                        <h2 className="main_button text-center w-75 mx-auto border border-1 rounded-pill mt-5 pt-3 pb-3 fs-2">TAKE THE WORK HEALTH SURVEY</h2>
+                        <h2 className="main_button text-center w-75 mx-auto border border-1 rounded-pill mt-5 pt-3 pb-3 fs-2" to="/depression">TAKE THE WORK HEALTH SURVEY</h2>
                      </div>
                      <p className="data text-justify fs-4">MHA Screening is made possible through the generous contributions of individuals and organizations that share our vision of mental health for all. This program is supported, in part, through philanthropic contributions from Abbvie, Alkermes, The Anthem Foundation, The Faas Foundation, Janssen, Neurocrine Biosciences, The NFL Foundation, Sage Therapeutics, Takeda Lundbeck Alliance, and Teva.
 

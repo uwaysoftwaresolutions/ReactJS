@@ -15,6 +15,7 @@ const Accordian = () => {
                                 <Myaccordian1
                                     question={curElem.question}
                                     answer={curElem.answer}
+                                    navigate={curElem.navigate}
                                     id={curElem.id}
                                 />
                             )

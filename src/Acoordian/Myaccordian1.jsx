@@ -14,7 +14,9 @@ const Myaccordian1 = (props) => {
                     <div class="col-12 mx-auto">
                         <div className="item">
                             <div className="title d-flex justify-content-center">
-                                <h2 onClick={<NavLink to="/depression"></NavLink>}>{props.question}</h2>
+                                <Link to={props.navigate}>
+                                    <h2>{props.question}</h2>
+                                </Link>
                                 <h3 onClick={() => setShow(!show)} className="main-para ms-auto ">{show ? "-" : "+"}</h3>
                             </div>
                             {show && <div className="content fs-5">{props.answer}</div>}
